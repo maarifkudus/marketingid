@@ -97,3 +97,13 @@ Performa dan `struktur SEO <https://www.navi.id/belajar-seo-wordpress-complete-g
 Selain fitur-fitur yang sudah disebutkan di atas, anda juga akan menjumpai fitur yang bernama domain comparison tool. Anda bisa membandingkan kondisi backlink dari 5 domain dalam waktu yang bersamaan. Dengan begitu maka anda bisa mengetahui persaingan di niche anda secara sederhana dan cepat.
 
 - `Digital Marketing Organization <https://www.dmo.or.id/>`_
+
+- Daftar Referensi Resmi Terbaru
+- `peta indonesia <https://genetika.sith.itb.ac.id/peta-indonesia/>`_
+- `peta indonesia hd <https://kobi-id.org/peta-indonesia/>`_
+- `kata-kata bijak motivasi indonesia <https://kobi-id.org/kata-bijak-motivasi/>`_
+- `kata-kata motivasi bisnis <https://genetika.sith.itb.ac.id/kata-bijak-motivasi/>`_
+- `kata kata bijak <https://blogs.itb.ac.id/wikia/kata-kata-motivasi/>`_
+- `ebilling djp online <https://genetika.sith.itb.ac.id/ebilling-djp-online/>`_
+- `KOBI DJP Online <https://kobi-id.org/ebilling-djp-online/>`_
+- `SSE Pajak Terbaru 2020 <https://blogs.itb.ac.id/wikia/sse-pajak-terbaru/>`_
